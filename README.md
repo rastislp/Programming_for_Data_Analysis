@@ -3,4 +3,5 @@
 
 Assignment 1: 
 
-numpy.random fi
+numpy.random.ipynb  - analyzing random modules of numpy library
+Deadline 22.Nov.2020
